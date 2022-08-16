@@ -7,7 +7,7 @@
 
 
 Hi JACOB! Welcome to AWS Cloud9!
-
+Deborah is watching you
 To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
